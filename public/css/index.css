@@ -1,0 +1,12 @@
+body{
+    color:rgb(255, 255, 255);
+}
+#header{
+    text-align: center;
+}
+#bodyPost{
+    background-color: rgb(165, 241, 52);
+}
+#text{
+    font-size: 2rem;
+}
